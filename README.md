@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantbharati&label=Profile%20views&color=0e75b6&style=flat" alt="prashantbharati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantbharati" alt="prashantbharati" /></a> </p>
-
 - 🔭 I’m currently working on [MintWallet](https://mintwallet.herokuapp.com/)
 
 - 💬 Ask me about **Fullstack web development, data structure and algorithm**
